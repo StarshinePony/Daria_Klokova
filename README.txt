@@ -1,4 +1,4 @@
-Joomla! CMS™
+Joomla! CMS E™
 
 1- Overview
 	* This is a Joomla! 4.x installation/upgrade package.
